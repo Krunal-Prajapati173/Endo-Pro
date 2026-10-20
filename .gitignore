@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.streamlit/secrets.toml
+.env
+.env.*
+EduPro_Online_Platform_Original.xlsx
